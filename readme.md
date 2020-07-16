@@ -123,7 +123,7 @@ Each test runner's `stdout` is printed to the console to verify all assertions p
 
 ```
 ~> "ava"   took    598ms  (  ???  )
-~> "jest"  took  1,560ms  (839  ms)
+~> "jest"  took    922ms  (367  ms)
 ~> "mocha" took    212ms  (  4  ms)
 ~> "tape"  took    129ms  (  ???  )
 ~> "uvu"   took     74ms  (  1.4ms)
